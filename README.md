@@ -1,2 +1,10 @@
 # Curso-Profesional-PHP-CodigoFacilito-Ejercicios
-PHP - https://codigofacilito.com/cursos/php-profesional
+## PHP
+
+- Variables y Tipos
+- Operadores
+- Condiciones y Ciclos
+- Arreglos
+- Funciones
+- Programación Orientada a Objetos
+- Desarrollo Web
